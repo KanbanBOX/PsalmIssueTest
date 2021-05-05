@@ -1,0 +1,12 @@
+.DS_Store
+
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/
+/cache/
+
+# PHPUnit
+/.phpunit.result.cache
